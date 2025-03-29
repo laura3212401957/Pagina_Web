@@ -1,0 +1,94 @@
+  
+body {
+    font-family: "Poppins", sans-serif; /* Cambia la fuente a Poppins */
+    background-color: #200603; /* Cambia el color de fondo a un tono más oscuro */
+    color: #360A05; /* Cambia el color del texto a un tono más claro */
+    margin: 0; /* Elimina el margen por defecto del body */
+    padding: 0; /* Elimina el padding por defecto del body */
+}
+.menuCSS3 a {
+    display: inline-flex; /* Cambia a inline-flex para centrar el texto */
+    padding: 1em 2em; /* Ajuste del padding */
+    background-color: #200603; /* Color de fondo del menú */
+    text-decoration: none; /* Elimina el subrayado del texto */
+    color: #FEABDA; /* Color del texto */
+    transition: background-color 0.3s; /* Transición suave para el hover */
+}
+
+.menuCSS3 a:hover {
+    background-color: #2c0e0c;  /* Color de fondo al pasar el mouse */
+}
+
+header {
+    background-color: #200603; /* Cambia el color de fondo a un tono más oscuro */
+    color: #FEABDA; /* Cambia el color del texto a un tono más claro */
+    padding: 15px; /* Cambia el padding para un mejor espaciado */
+    text-align: center; /* Centra el texto */
+}
+nav {
+    background-color: #200603; /* Cambia el color de fondo a un tono más oscuro */
+    padding: 10px; /* Cambia el padding para un mejor espaciado */
+    text-align: center; /* Centra el texto */
+}
+nav a {
+    color: #FEABDA; /* Cambia el color del texto a un tono más claro */
+    margin: 0 0px; /* Cambia el margen para un mejor espaciado */
+    text-decoration: none; /* Elimina el subrayado del texto */
+    font-weight: bold; /* Cambia el peso de la fuente a negrita */
+}
+h2{
+    font-size: 30px; /* Cambia el tamaño de la fuente */
+}
+.container p {
+    padding: 39px; /* Cambia el padding para un mejor espaciado */
+    margin-top: 25px; /* Cambia el margen superior para un mejor espaciado */
+    margin-left: 120px; /* Cambia el margen izquierdo para un mejor espaciado */
+    text-align: justify; /* Cambia la alineación del texto a justificado */
+    font-size: 18px; /* Cambia el tamaño de la fuente */
+    line-height: 1.6; /* Cambia la altura de línea para un mejor espaciado */
+    
+}
+.container2 p {
+    padding: 20px; /* Cambia el padding para un mejor espaciado */
+    margin-top: 25px; /* Cambia el margen superior para un mejor espaciado */
+    margin-left: 120px; /* Cambia el margen izquierdo para un mejor espaciado */
+    text-align: justify; /* Cambia la alineación del texto a justificado */
+    font-size: 18px; /* Cambia el tamaño de la fuente */
+    line-height: 1.6; /* Cambia la altura de línea para un mejor espaciado */
+}
+.container3 img {
+    width: 40%; /* Cambia el ancho de la imagen al 40% del contenedor */
+    height: 40%; /* Cambia la altura de la imagen al 40% del contenedor */
+    border-radius: 10px; /* Cambia el radio de borde para un mejor espaciado */
+    margin-top: 20px; /* Cambia el margen superior para un mejor espaciado */
+}
+.device {
+    background: #F4F2EA; /* Cambia el color de fondo a un tono más claro */
+    padding: 20px; /* Cambia el padding para un mejor espaciado */
+    margin-bottom: 25px; /* Cambia el margen inferior para un mejor espaciado */
+    border-radius: 10px; /* Cambia el radio de borde para un mejor espaciado */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Cambia la sombra para un mejor espaciado */
+}
+img {
+    max-width: 100%; /* Cambia el ancho máximo de la imagen al 100% del contenedor */
+    height: auto; /* Cambia la altura automática de la imagen */
+    border-radius: 10px; /* Cambia el radio de borde para un mejor espaciado */
+}
+table {
+    width: 100%; /* Cambia el ancho de la tabla al 100% del contenedor */
+    border-collapse: collapse; /* Cambia la colapso de bordes para un mejor espaciado */
+    margin-top: 10px; /* Cambia el margen superior para un mejor espaciado */
+}
+th, td {
+    border: 1px solid #000000;  /* Cambia el borde de la celda a un tono más oscuro */
+    padding: 8px; /* Cambia el padding para un mejor espaciado */
+    text-align: center; /* Cambia la alineación del texto a centrado */
+}
+th {
+    background-color: #200603; /* Cambia el color de fondo a un tono más oscuro */
+    color: #FEABDA; /* Cambia el color del texto a un tono más claro */
+}
+.mencion{
+    color: #FEABDA;
+    text-align: center;
+}
